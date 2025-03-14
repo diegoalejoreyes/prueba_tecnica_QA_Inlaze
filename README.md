@@ -31,7 +31,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 - **Python 3.x** (Descargar: [https://www.python.org/downloads/](https://www.python.org/downloads/))
 -  **Google Chrome**
 -   *Instalar WebDriver** correspondiente a tu navegador:
-     - [ChromeDriver](https://chromedriver.chromium.org/downloads)
+     - [ChromeDriver](https://sites.google.com/chromium.org/driver/downloads?authuser=0)
 - **Instalar dependencias del proyecto**  
 
 ---
@@ -40,8 +40,8 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 
 ### 1️⃣ Clonar el repositorio
 ```
-- git clone https://github.com/tu-usuario/qa-automation-inlaze.git
-- cd qa-automation-inlaze
+- git clone https://github.com/diegoalejoreyes/prueba_tecnica_QA_Inlaze.git
+- cd prueba_tecnica_QA_Inlaze
 ```
 ### 2️⃣ Crear un Entorno Virtual
 ```
